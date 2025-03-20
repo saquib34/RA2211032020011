@@ -14,9 +14,9 @@ This project is a React-based social media analytics frontend that delivers real
    ```sh
    cd problem2
    ```
-2. Install the required dependencies:
+2. Since `node_modules` and `package-lock.json` are included, you can skip the installation step. If you need to reinstall the dependencies, you can run:
    ```sh
-   npm install express axios
+   npm install
    ```
 3. Start the server:
    ```sh

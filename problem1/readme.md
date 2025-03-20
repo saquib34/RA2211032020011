@@ -13,9 +13,9 @@
    ```sh
    cd .\problem1
    ```
-3. Install the required dependencies:
+3. Since `node_modules` and `package-lock.json` are included, you can skip the installation step. If you need to reinstall the dependencies, you can run:
    ```sh
-   npm install express axios
+   npm install
    ```
 4. Start the server:
    ```sh

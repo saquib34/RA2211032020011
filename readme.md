@@ -63,6 +63,6 @@ Problem 2 involves creating a React-based social media analytics frontend that d
    ```sh
    node server.js
    ```
-4. The server will run at `http://localhost:3000`.
+4. The server will run at `http://localhost:9876`.
 
 For more details, refer to the [Problem 2 Readme](./problem2/readme.md).

@@ -24,7 +24,7 @@ This project is a React-based social media analytics frontend that delivers real
    ```
 4. Access the app in your browser at:
    ```
-   http://localhost:3000
+   http://localhost:9876
    ```
 
 ## Available Endpoints

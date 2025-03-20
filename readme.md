@@ -1,4 +1,4 @@
-# AlgoMed Project
+
 
 This project contains two main problems, each implemented as a separate microservice. The solutions are organized into two folders: `problem1` and `problem2`.
 
